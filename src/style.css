@@ -1,0 +1,16 @@
+#title  {
+    background-color: red;
+    forced-color-adjust: cyan;
+    
+}
+
+.read {
+    color: white;
+    background-color: black;
+
+}
+
+.unread {
+    color: white;
+
+}
